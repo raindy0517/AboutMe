@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="my_name">Raindy Keng</string>
+    <string name="profile_pic">Profile Picture</string>
+    <string name="profile_desc">
+        Education:\n
+        \n\tTadika Sri Molek
+        \n\tSJK(C)Bukit Kepong, Muar
+        \n\tSMK Lenga, Muar
+        \n\tTAR UC, Kuala Lumpur
+        \nWorking Experiences
+        \n\tOPPO Sales Representative
+    </string>
+</resources>
